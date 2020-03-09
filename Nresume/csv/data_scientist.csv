@@ -1,0 +1,13 @@
+R,Python,Mathematics,Programming languages,Data Preprocessing and Wrangling,,Data Visualization,ML
+Tidyverse,Numpy,Statistics,Excel,Data Wrangling,,Tableau,Regression
+Dplyr,Pandas,Probability,Tableau,Data Preprocessing,,Infogram,Multiregression analysis
+Ggplot2,Matplotlib,Multivariable Calculus,,Feature Transformation,,ChartBlocks,Logistic Regression
+Caret,Seaborn,Linear Algebra,Hadoop,Data imputation,,D3.js, Support Vector Machine
+Stringr,Scikit-learn,Optimization Methods,SQL,Dimensionality Reduction,,D3,K-nearest neighbor
+,PyTorch,, Spark,PCA,,HighCharts,KNN
+,NLTK,,SAS,LDA,,Echarts,Decision Tree
+,Spacy,,Splunk,Principal Component Analysis,,Leaflet,Random Forest
+,,,,Linear Discriminant Analysis,,Vega,Kmeans clustering
+,,,,,,deck.gl,K-means clustering
+,,,,,,Power BI,
+,,,,,,FineReport,

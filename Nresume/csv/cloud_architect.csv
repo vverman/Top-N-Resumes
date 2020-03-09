@@ -1,0 +1,13 @@
+Services,Storage,Virtualization,Technologies,Containers,Programming Languages
+AWS,S3,virtual machine,XML,Kubernetes,SQL
+Azure,Glacier,Vm,SOAP,Docker,Python
+GCP ,Data Lakes,EC2,REST,CRI-O,XML
+Openstack,Data Warehousing,lambda,WSDL,rktlet,.NET
+IBM cloud,Blobs,Serverless computing,API,containerd,
+SAP,Queues,,,Microsoft Containers,
+Salesforce,Openstack swift,,,Istio,
+Oracle cloud,EMC Atmos,,,Apache Mesos,
+Adobe,Ocean store,,,Docker swarm,
+VMware,VISION cloud,,,Blockbridge,
+Red hat,EMC ECS,,,,
+Dropbox,,,,,
